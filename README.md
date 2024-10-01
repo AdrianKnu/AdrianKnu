@@ -1,1 +1,3 @@
 # AdrianKnu
+## Hobbies
+- Dancing: ...
