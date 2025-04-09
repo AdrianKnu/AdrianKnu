@@ -9,7 +9,7 @@ Apasionado por la tecnología y el aprendizaje continuo, busco constantemente nu
 - **Lenguajes:** Java, Python, C, SQL, HTML, CSS, JavaScript  
 - **Frameworks & Herramientas:** Spring Boot, CodeIgniter, Selenium, Mockito, Postgres, MySQL, GitHub  
 - **Metodologías y conceptos:** Scrum, TDD, MVC, DAO, UML, MAVEN  
-- **Extras:** Experiencia como ayudante de cátedra en Programación Estructurada
+- **Extras:** Experiencia como ayudante de cátedra en Programación Estructurada, Algoritmos I y II.
 
 ---
 
