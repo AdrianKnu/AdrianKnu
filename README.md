@@ -1,8 +1,4 @@
-# 👨‍💻 Adrián Knüppelholz
-
-Hola Tú! 
-
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
 Apasionado por la tecnología y el aprendizaje continuo, busco constantemente nuevos desafíos donde pueda aplicar mis conocimientos, resolver problemas complejos y contribuir a proyectos innovadores. Tengo experiencia trabajando en equipo bajo metodologías ágiles como Scrum, aplicando buenas prácticas de desarrollo, y participando activamente en todo el ciclo de vida del software.
 
