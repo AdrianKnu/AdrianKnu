@@ -24,8 +24,8 @@ Universidad Gastón Dachary (2019 - 2024)
 ## 🏅 Certificaciones y Bootcamps
 
 - ✅ Scrum Fundamentals Certified (SFC™) – [Ver credencial](https://www.scrumstudy.com/certification/verify?type=SFC&number=1020480)
-- 💻 Backend Java Developer – Globant | CodeYourFuture (430hs) – [Ver credencial]([https://www.scrumstudy.com/certification/verify?type=SFC&number=1020480](https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/66c4eb8cdc7bbffc897ab266-1745273206205.pdf))
-- 🤖 Inteligencia Artificial para la Productividad (Nivel Avanzado) – INEFOP | Egg Plataform – [Ver credencial]([https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/688c0e99ee2afc52c1acd508-1755891375001.pdf)
+- 💻 Backend Java Developer – Globant | CodeYourFuture (430hs) – [Ver credencial](https://www.scrumstudy.com/certification/verify?type=SFC&number=1020480](https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/66c4eb8cdc7bbffc897ab266-1745273206205.pdf))
+- 🤖 Inteligencia Artificial para la Productividad (Nivel Avanzado) – INEFOP | Egg Plataform – [Ver credencial](https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/688c0e99ee2afc52c1acd508-1755891375001.pdf)
 ---
 
 ## 🌐 Idiomas
